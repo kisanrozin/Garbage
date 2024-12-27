@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59972183368",
+    "project_id": "buangin-31aa9",
+    "storage_bucket": "buangin-31aa9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59972183368:android:4ab8c12640f49bd8577f7d",
+        "android_client_info": {
+          "package_name": "com.buangin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPzfCkbZeeON9ujU7CEZerXOxzC8mm7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
